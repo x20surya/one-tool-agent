@@ -1,0 +1,4 @@
+# Runtime works on the stdlib alone (DuckDuckGo HTML fallback).
+# ddgs gives better zero-key search results; pytest is for the test suite.
+ddgs>=9
+pytest>=8
